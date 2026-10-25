@@ -1,0 +1,13 @@
+SITIO BRATVA FITNESS (HTML, CSS y JS)
+
+Abrir la carpeta en Visual Studio Code. Para verlo: extension "Live Server" > clic derecho en index.html > Open with Live Server.
+(o simplemente abrir index.html en el navegador)
+
+- css/style.css  : colores y estilos (variables en :root al inicio)
+- js/main.js     : menu hamburguesa en celular
+- img/           : imagenes (ver IMAGENES.txt)
+- Cada pagina es un .html. El menu esta repetido en cada una: si cambian el menu, copien el cambio en todas.
+- Texto con fondo amarillo [RELLENAR: ...]: reemplazar y quitar el <span class="fill"> al terminar.
+- Videos: cambiar ID_DEL_VIDEO por el ID del video de YouTube.
+
+Para publicar en linea (entrega 08-12-2026): GitHub Pages o Netlify (arrastrar la carpeta).

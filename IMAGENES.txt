@@ -1,0 +1,23 @@
+IMAGENES A REEMPLAZAR
+Pongan su imagen en la carpeta img/ con EL MISMO NOMBRE (png) y listo, sin tocar el codigo.
+Si su archivo es .jpg, cambien la extension en el html correspondiente.
+
+01. img/equipo-1.png  -  Foto del integrante 1  (300x300 px)
+02. img/equipo-2.png  -  Foto del integrante 2  (300x300 px)
+03. img/equipo-3.png  -  Foto del integrante 3  (300x300 px)
+04. img/equipo-4.png  -  Foto del integrante 4  (300x300 px)
+05. img/hero.png  -  Foto principal del gimnasio (sala de pesas o fachada)  (900x600 px)
+06. img/sucursal.png  -  Captura del mapa o foto de la sucursal  (640x420 px)
+07. img/logo-umsa.png  -  Logo de la UMSA  (200x200 px)
+08. img/arbol-de-problemas.png  -  Árbol de problemas: problema central, causas abajo y efectos arriba  (1100x700 px)
+09. img/gantt.png  -  Diagrama de Gantt con las 4 fases hasta el 08-12-2026  (1100x500 px)
+10. img/modelo-ambiental.png  -  Diagrama de contexto con el sistema al centro y las entidades externas (cliente, administrador, instructor)  (1100x650 px)
+11. img/dfd-nivel-0.png  -  DFD nivel 0 de Bratva Fitness  (1100x650 px)
+12. img/dfd-nivel-1.png  -  DFD nivel 1 de Bratva Fitness  (1100x650 px)
+13. img/dfd-nivel-2.png  -  DFD nivel 2 de Bratva Fitness  (1100x650 px)
+14. img/der.png  -  Diagrama entidad-relación con cliente, membresía, pago, asistencia, clase e instructor  (1100x650 px)
+15. img/casos-de-uso.png  -  Diagrama de casos de uso con actores (cliente, recepcionista, instructor, administrador) y sus casos  (1100x650 px)
+16. img/diagrama-de-clases.png  -  Diagrama de clases UML con atributos, métodos y relaciones  (1100x650 px)
+17. img/diagrama-de-secuencia.png  -  Diagrama de secuencia de un caso de uso (por ejemplo, registrar pago de membresía)  (1100x650 px)
+18. img/diagrama-de-comunicacion.png  -  Diagrama de comunicación del mismo caso de uso del diagrama de secuencia  (1100x650 px)
+19. img/logo.png  -  Logo de Bratva Fitness (la pesa es de prueba)  (200x200 px)
